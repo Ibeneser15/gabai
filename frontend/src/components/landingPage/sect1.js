@@ -1,5 +1,6 @@
 import Law from "../../img/Law.png";
 
+
 const WorkplaceDiscriminationLaws = () => {
   return (
     <div
@@ -43,9 +44,10 @@ const WorkplaceDiscriminationLaws = () => {
             </button>
           </div>
         </div>
-
+        
         <div className="grid items-center">
-          <img src={Law} alt="law " className="w-[22rem]" />
+          <img src={Law} alt="law " className="w-[30rem]" />
+          
         </div>
       </div>
     </div>
